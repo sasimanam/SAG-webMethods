@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="enabled">yes</value>
+  <value name="system_package">no</value>
+  <value name="version">1.0</value>
+  <null name="startup_services"/>
+  <null name="shutdown_services"/>
+  <null name="replication_services"/>
+  <null name="requires"/>
+  <null name="listACL"/>
+  <value name="webappLoad">yes</value>
+  <value name="reloadWithDependentPackage">yes</value>
+  <value name="name">GitTesV02</value>
+  <value name="build">10.11.62</value>
+  <null name="description"/>
+  <value name="time">2024-07-01 17:18:57 CDT</value>
+  <value name="jvm_version">11.0.18</value>
+  <value name="publisher">LPT331-US.quinnox.corp</value>
+  <value name="patch_nums"></value>
+</Values>
