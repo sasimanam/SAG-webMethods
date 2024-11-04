@@ -12,10 +12,10 @@
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
   <value name="name">GitTesV02</value>
-  <value name="build">10.11.62</value>
+  <value name="build"></value>
   <null name="description"/>
-  <value name="time">2024-07-01 17:18:57 CDT</value>
-  <value name="jvm_version">11.0.18</value>
+  <value name="time">2024-11-03 21:59:12 CST</value>
+  <value name="jvm_version">11.0.12</value>
   <value name="publisher">LPT331-US.quinnox.corp</value>
   <value name="patch_nums"></value>
 </Values>
